@@ -1,9 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///Users/nathanclevenger/Projects/mdx.org.ai/app/page.jsx"],"sourcesContent":["export const metadata = {}\n\nexport default function IndexPage() {\n  return (\n    <h1\n      style={{\n        textAlign: 'center',\n        fontSize: 64,\n        margin: '25vh 0',\n        fontWeight: 'bold'\n      }}\n    >\n      Index page\n    </h1>\n  )\n}\n"],"names":[],"mappings":";;;;;;AAAO,MAAM,WAAW,CAAC;AAEV,SAAS;IACtB,qBACE,mVAAC;QACC,OAAO;YACL,WAAW;YACX,UAAU;YACV,QAAQ;YACR,YAAY;QACd;kBACD;;;;;;AAIL"}},
-    {"offset": {"line": 29, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
-    {"offset": {"line": 40, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":""}},
-    {"offset": {"line": 40, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
-}
