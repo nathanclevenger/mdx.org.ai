@@ -1,6 +1,6 @@
 # mdx.org.ai
 
-[mdx.org.ai] provides @context for MDX files to have a specific @type that represents what it is. 
+[mdx.org.ai](https://mdx.org.ai) provides @context for MDX files to have a specific @type that represents what it is. 
 
 For example, a @type could be:
 
